@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d995f87e5da7304a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a927967598e8c884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89f152f5a29f5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blazor Assambly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "388ba6ac73dc8222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cuando es conveniente usar Blazor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2af8cb81e96b07b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "501f2b12a39d1e0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fa9d21216e567bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c833e97dc78ea16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50028279cb53805b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82e869cd932f89f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f9fea7097e62e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "229d4595d56938f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cuando es conveniente usar Blazor.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "575639ff0d099294",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cuando es conveniente usar Blazor.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d3528fc9e1c41851",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b718b2fe4045e02f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cuando es conveniente usar Blazor.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "388ba6ac73dc8222",
+  "lastOpenFiles": [
+    "Mi inicio-Que es Blazor.md",
+    "Blazor Assambly.md",
+    "Blazor Server.md",
+    "Componentes.md",
+    "Paginas.md",
+    "Donde se compila una aplicacion Blazor.md",
+    "Que es Razor.md",
+    "Modo Inspeccion.md",
+    "Assets/Pasted image 20221117114616.png"
+  ]
+}

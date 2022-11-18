@@ -1,0 +1,2 @@
+En Blazor, creará una _página_ con Razor que presenta una pantalla de contenido en el navegador. Una _página_ generalmente se asigna directamente a una dirección web a la que un usuario navegaría en su aplicación.
+[[Blazor Assambly]] [[Mi inicio-Que es Blazor]]

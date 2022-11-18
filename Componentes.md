@@ -1,0 +1,1 @@
+Las páginas serían difíciles de crear si tuviera que volver a escribir cada línea de HTML sin reutilizarlas entre páginas. Puede crear _componentes_ con Razor a los que se puede hacer referencia y utilizar en otros componentes o páginas.
