@@ -13,3 +13,6 @@ Estos contienen [[Componentes]] que se renderizar de forma individual y tiene un
 [[Donde se compila una aplicacion Blazor]]
 
 Hay que preguntarse [[Cuando es conveniente usar Blazor]]
+
+Una vez entendido como funciona Blazor, pasamos a [[crear una app desde visual studio ]]
+
