@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Componente Counter.md",
+                "file": "agregar a la LIST los items..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Componente Counter.md",
+                "file": "agregar a la LIST los items..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Componente Counter.md",
+                "file": "agregar a la LIST los items..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Componente Counter.md"
+                "file": "agregar a la LIST los items..md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "f97a1505d0a3ef23",
   "lastOpenFiles": [
-    "Componentes.md",
-    "Componente Counter.md",
-    "Ejecutando la app.md",
-    "crear una app desde visual studio.md",
-    "Paginas.md",
-    "Blazor Assambly.md",
-    "Assets/hello-blazor.png",
-    "Mi inicio-Que es Blazor.md",
-    "Cuando es conveniente usar Blazor.md",
-    "Blazor Server.md"
+    "Assets/Pasted image 20221122144214.png",
+    "agregar a la LIST los items..md",
+    "Assets/Pasted image 20221122115823.png",
+    "Assets/Pasted image 20221122112954.png",
+    "Assets/Pasted image 20221122121950.png",
+    "Assets/Pasted image 20221122131903.png",
+    "Assets/visual-studio-2022-create-new-project.png",
+    "Enlace de lista de item.md",
+    "clase c.md",
+    "Agregar el componente.md"
   ]
 }
