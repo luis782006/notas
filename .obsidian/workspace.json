@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agregar a la LIST los items..md",
+                "file": "Pasaje de variables entre componentes.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "funcion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agregar a la LIST los items..md",
+                "file": "Pasaje de variables entre componentes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "agregar a la LIST los items..md",
+                "file": "Pasaje de variables entre componentes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agregar a la LIST los items..md"
+                "file": "Pasaje de variables entre componentes.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "f97a1505d0a3ef23",
   "lastOpenFiles": [
-    "Assets/Pasted image 20221122144214.png",
     "agregar a la LIST los items..md",
-    "Assets/Pasted image 20221122115823.png",
-    "Assets/Pasted image 20221122112954.png",
-    "Assets/Pasted image 20221122121950.png",
-    "Assets/Pasted image 20221122131903.png",
-    "Assets/visual-studio-2022-create-new-project.png",
+    "Pasaje de variables entre componentes.md",
+    "Pasaje de parametros enfunciones FUNCIONES LAMDBA.md",
     "Enlace de lista de item.md",
-    "clase c.md",
-    "Agregar el componente.md"
+    "enlances y creacion de un componente..md",
+    "Agregar el componente.md",
+    "consideraciones de bindeado..md",
+    "Funciones predeterminadas..md",
+    "Assets/Pasted image 20221122145522.png",
+    "Pasted image 20221123094238.png"
   ]
 }
