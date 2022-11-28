@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "183cf1821ec0e32e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto Pizza.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasaje de variables entre componentes.md",
+                "file": "Proyecto Pizza.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasaje de variables entre componentes.md",
+                "file": "Proyecto Pizza.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasaje de variables entre componentes.md"
+                "file": "Proyecto Pizza.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f97a1505d0a3ef23",
+  "active": "183cf1821ec0e32e",
   "lastOpenFiles": [
-    "agregar a la LIST los items..md",
+    "Clase.md",
+    "Proyecto Pizza.md",
+    "Creacion de un componente.md",
     "Pasaje de variables entre componentes.md",
+    "agregar a la LIST los items..md",
     "Pasaje de parametros enfunciones FUNCIONES LAMDBA.md",
     "Enlace de lista de item.md",
     "enlances y creacion de un componente..md",
     "Agregar el componente.md",
-    "consideraciones de bindeado..md",
-    "Funciones predeterminadas..md",
-    "Assets/Pasted image 20221122145522.png",
-    "Pasted image 20221123094238.png"
+    "consideraciones de bindeado..md"
   ]
 }
