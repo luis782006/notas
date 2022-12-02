@@ -41,4 +41,31 @@ En su codigo C# se crea una lista con el Modelo de la Clase pizza.
  En la lista que se creo de tipo Clase Pizza se creo una variable la cual se ocupara de recibir una clase por el metodo heredado de la clase List y como parametro recibe una nueva List de tipo PizzaSpecial.
 					     
 	pizzaList.AddRange(new List<PizzaSpecial>
-El metodo Add y AddRange
+El metodo Add y AddRange tiene sus diferencias. 
+Addrange: Agrega elementos a una coleccion especifica al final de la lista
+
+       List<PizzaSpecial> pizzaList = new();
+       pizzaList.AddRange(new List<PizzaSpecial>{
+           new PizzaSpecial { Name = "The Baconatorizor", BasePrice =  11.99M, 
+                                          Description = "It has EVERY kind of bacon", 
+                                          ImageUrl="css/img/pizzas/bacon.jpg"},
+                                          
+            new PizzaSpecial { Name = "Buffalo chicken", BasePrice =  12.75M, 
+                                           Description = "Spicy chicken, hot sauce, and blue 
+                                            cheese, guaranteed to warm you up", 
+                                             ImageUrl="css/img/pizzas/meaty.jpg"},
+            
+       });
+
+
+Add: Agrega un obejto al final de la lista.
+		
+		List<PizzaSpecial> mipizzaElement = new List<PizzaSpecial>();
+		 mipizzaElement.Add(new PizzaSpecial()
+            {
+	           Name = "The Baconatorizor", BasePrice =  11.99M, Description = 
+              "It has 
+               EVERY kind of bacon", ImageUrl="css/img/pizzas/bacon.jpg"
+            }
+       
+       );

@@ -10,7 +10,7 @@ A su vez la funcion tiene un Condicional que evalua si el objeto string newTodo 
 
  El metodo se dispara y ejecuta su logica.
  ![[Pasted image 20221122145522.png]]
-[[Funciones predeterminadas. ]]  [[Pasaje de parametros enfunciones FUNCIONES LAMDBA]] [[Pasaje de variables entre componentes]]
+[[Funciones predeterminadas. ]]  [[Pasaje de parametros en funciones inplicitas. FUNCIONES LAMDBA]] [[Pasaje de variables entre componentes]]
  
  [[Enlace de lista de item]]  [[enlances y creacion de un componente.]] [[Componentes]]
  

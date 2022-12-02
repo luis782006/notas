@@ -7,10 +7,10 @@ Componente que manda la info.
 
 Se crea un boton que ejecutara un metodo el cual se va a encargar de enviar el valor de la variable.
 
-   @code {
-    [Parameter] // anotacion 
-    public string apellido { get; set; } // se declara na variable la cual llevara los metodos 
-                                                        //get y set
+         @code {
+          [Parameter] // anotacion 
+          public string apellido { get; set; } // se declara na variable la 
+          cual llevara los metodos //get y set
 
     [Parameter]
     public EventCallback<string> NombreCompleto{ get; set; }
@@ -60,6 +60,6 @@ Ahora el componente que recibe la variable
     }
 }
 
-[[Funciones predeterminadas. ]]  [[Pasaje de parametros enfunciones FUNCIONES LAMDBA]] 
+[[Funciones predeterminadas. ]]  [[Pasaje de parametros en funciones inplicitas. FUNCIONES LAMDBA]] 
  
  [[Enlace de lista de item]]  [[enlances y creacion de un componente.]] [[Componentes]]

@@ -7,7 +7,12 @@ Dentro de ella nos encontramos con
 @page es una directiva de Blazor
 La siguiente linea se setea el nombre de la pagina que va a figurar en la pestaña del navegador
 <PageTitle></PageTitle>
-EL resto de la pagina esta compuesto por codigo html y la logica que manejara esta pagina encerrado con la NOTACION @code{ logica }
+EL resto de la pagina esta compuesto por codigo html y la logica que manejara esta pagina encerrado con la NOTACION @code{ logica }. Aunque tambien dentro del codigo html tambien se puede hacer uso de C# siempre con la @ y dentro del paretensis la logica en C#
+
+			  <p>Esto es un parrafo @(2+2)</p>
+
+
+[[Funciones predeterminadas.]]
 
 nota: Este componente ya fue modifcado para ver el uso de variables indicado con ([ parameter] ) y declarando bajo de esta linea una variable. Esta variable tiene un get y set y se le da un valor incial de 1.
 Luego viene el método  declarado .
